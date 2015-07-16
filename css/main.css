@@ -4,7 +4,7 @@ body {
 	padding:1em;
 	background:url('../images/body-bg.png');
 	font-family:'Avenir', 'Arial', serif;
-	text-align:center;
+/*	text-align:center;*/
 }
 h1 {
 	margin:0.5em 0 1em;

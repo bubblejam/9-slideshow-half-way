@@ -10,7 +10,7 @@ determine which bullet was clicked
 animate the slides to the correct position
 show active state of the slideshow
 
-auto advance the slideshow
+auto advance the slidesho
 */
 
 
